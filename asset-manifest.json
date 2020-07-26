@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4bc89ebf.chunk.css",
+    "main.js": "/static/js/main.6e162c2e.chunk.js",
+    "main.js.map": "/static/js/main.6e162c2e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.77aee542.js",
+    "runtime-main.js.map": "/static/js/runtime-main.77aee542.js.map",
+    "static/js/2.c8f23e5e.chunk.js": "/static/js/2.c8f23e5e.chunk.js",
+    "static/js/2.c8f23e5e.chunk.js.map": "/static/js/2.c8f23e5e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8bc2c6cd4ea6089b45a20e8da03e74a3.js": "/precache-manifest.8bc2c6cd4ea6089b45a20e8da03e74a3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4bc89ebf.chunk.css.map": "/static/css/main.4bc89ebf.chunk.css.map",
+    "static/js/2.c8f23e5e.chunk.js.LICENSE.txt": "/static/js/2.c8f23e5e.chunk.js.LICENSE.txt",
+    "static/media/AvenirLTStd-Book.otf": "/static/media/AvenirLTStd-Book.ecb0c2ae.otf",
+    "static/media/Logo99freelas.svg": "/static/media/Logo99freelas.7ce0161f.svg",
+    "static/media/Particles.mp4": "/static/media/Particles.d8dbb275.mp4",
+    "static/media/astronaut.png": "/static/media/astronaut.af47b3aa.png",
+    "static/media/eye.svg": "/static/media/eye.0b2869a0.svg",
+    "static/media/facebook-square.svg": "/static/media/facebook-square.1439d529.svg",
+    "static/media/github-square.svg": "/static/media/github-square.358847e2.svg",
+    "static/media/glitchlogo.mp4": "/static/media/glitchlogo.5a37343d.mp4",
+    "static/media/google.svg": "/static/media/google.393520a7.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.48a2133d.svg",
+    "static/media/react.svg": "/static/media/react.3ece720a.svg",
+    "static/media/responsive.svg": "/static/media/responsive.37c79d6c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77aee542.js",
+    "static/js/2.c8f23e5e.chunk.js",
+    "static/css/main.4bc89ebf.chunk.css",
+    "static/js/main.6e162c2e.chunk.js"
+  ]
+}
